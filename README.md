@@ -1,6 +1,6 @@
 # Modelagem de dados SG4L
 
-#[VISUALIZE EER](https://github.com/GiuseppeDiniz/modeling/blob/main/mysql/modeling-sg4l.svg)
+![Diagrama ER](mysql/modeling-sg4l.svg)
 
 ## 🧠 VISÃO GERAL DO SISTEMA
 
